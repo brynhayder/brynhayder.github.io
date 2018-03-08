@@ -28,7 +28,7 @@ We will find that characterising $$f$$ as a Gaussian process (GP) provides a fle
 
 ## Definition
 
->A Gaussian process is an infinite collection of random variables such that any finite subset forms multivariate Gaussian distribution
+>A Gaussian process is a (possibly infinite) collection of random variables such that any finite subset forms multivariate Gaussian distribution
 
 We are interested in the case in which the GP is parameterised by $$\mathbf{x} \in \mathbb{R}^n$$. That is, our GPs will provide a measure over functions $$f: \mathbb{R}^n \to \mathbb{R}$$.
 
