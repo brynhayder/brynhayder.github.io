@@ -226,7 +226,7 @@ Unfortunately, the integral over the hyperparameters is often intractable. In ge
     l(\mathbf{\theta}) = \mathrm{log}(\mathsf{P}(\mathbf{y} | X, \mathbf{\theta}, \mathcal{H}_i)).
     \end{equation}
 </div>
-One would then use $$\theta^* = \underset{\mathbf{\theta}}{\mathrm{argax}} \, l$$ in the steps that followed. 
+One would then use $$\theta^* = \underset{\mathbf{\theta}}{\mathrm{argmax}} \, l$$ in the steps that followed. 
 
 Finally, one should note that at the training points
 <div>
