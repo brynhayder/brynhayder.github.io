@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<div> :arrow_down: </div>
+
+DPhil student in machine learning at Oxford. Interested in understanding how and
+why things work.
