@@ -1,14 +1,23 @@
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
+    tex2jax: {
+            inlineMath: [['$','$']],
+            displayMath: [['\[','\]']],
+            processEscapes: true,
+            },
     TeX: {
-            Macros: {
+            equationNumbers: {
+            autoNumber: "AMS"
+            },
+    Macros: {
               d: "{\\text{d}}",
               E: "\\mathbb{E}",
               R: "\\mathbb{R}",
               Var: "\\text{Var}",
-              blob: ["\\boldsymbol{\\mu}(#1)",1],
-              
-              
+              vec: ["\\boldsymbol{#1}",1],
+              diff: ["\\frac{\\d #1}{\\d #2}",2],
+              pdiff: ["\\frac{\\partial #1}{\\partial #2}",2],
+              fdiff: ["\\frac{\\delta #1}{\\delta #2}",2],
             }
           }
   });
