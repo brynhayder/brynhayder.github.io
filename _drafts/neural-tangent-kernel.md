@@ -62,6 +62,12 @@ This is the element in $\mathcal{G}$ that for _any_ $\phi \in \mathcal{G}$ is su
 (This exists and is unique by [Riesz-Markov-Kakutani Representation Theorem](https://en.wikipedia.org/wiki/Riesz-Markov-Kakutani_representation_theorem) and a change of variables.)
 You can think of this as the change in $J$ from moving infinitesimally in the direction of $\phi$, analogous to the familiar fact that the directional derivative of $f$ in the direction of $\vec{n}$ is $\vec{n}\cdot\nabla f$.
 
+We can prove a version of the chain rule for this object.
+That is, if $g$ depends also on $\vec{s} \in \R^{l}$ (i.e. it is parameterised by $\vec{s}$, then
+\[
+    \pdiff{J[g_{\vec{s}}]}{\vec{s}} = \fdiff{J}{g_{\vec{s}}} \pdiff{g}{\vec{s}}.
+\]
+
 
 
 
