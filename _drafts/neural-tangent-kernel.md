@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deriving the Neural Tangent Kernel"
-date:   2019-04-1 00:00:00 +0000
+date:   2019-04-2 00:00:00 +0000
 categories: jekyll update
 usemathjax: true
 comments: true
