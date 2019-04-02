@@ -6,17 +6,17 @@ categories: jekyll update
 usemathjax: true
 comments: true
 ---
+## Introduction
+I recently came across the paper [Neural Tangent Kernel: Covergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572) published at NeurIPS 2018. 
+I was super excited by this paper and I think it is a great execution of a very natural idea.
+I thought I would try to reproduce the ideas of the paper myself. 
+Hence, this post is a reconstruction of the general idea of the paper in a way that seems natural to me.
 \[
 \newcommand{\params}{\vec{\theta}}
 \newcommand{\net}{f^\params}
 \newcommand{\F}{\mathcal{F}}
 \newcommand{\X}{\mathcal{X}}
 \]
-## Introduction
-I recently came across the paper [Neural Tangent Kernel: Covergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572) published at NeurIPS 2018. 
-I was super excited by this paper and I think it is a great execution of a very natural idea.
-I thought I would try to reproduce the ideas of the paper myself. 
-Hence, this post is a reconstruction of the general idea of the paper in a way that seems natural to me.
 
 ## Roadmap
 We have a neural network that we will train using gradient descent on some loss function.
