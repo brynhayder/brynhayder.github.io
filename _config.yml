@@ -32,6 +32,11 @@ github_username: "brynhayder"
 linkedin_username: "brynelesedy"
 google_site_verification: BbK2kYF9Ur6X1xq0V7gD3ZyFqwLR01KTORXDMIkLZOo
 
+# Disqus Comments
+# disqus:
+#     # Leave shortname blank to disable comments site-wide.
+#         # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+#             shortname: bryn
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
