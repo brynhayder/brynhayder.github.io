@@ -16,7 +16,7 @@ comments: true
 I recently came across the paper [Neural Tangent Kernel: Covergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572) published at NeurIPS 2018. 
 I was super excited by this paper and I think it is a great execution of a very natural idea.
 I thought I would try to reproduce the ideas of the paper myself. 
-Hence, this post is a reconstruction of the main idea of the paper in a way that seems natural to me.
+Hence, this post is a reconstruction of the general idea of the paper in a way that seems natural to me.
 
 ## Roadmap
 We have a neural network that we will train using gradient descent on some loss function.
@@ -97,6 +97,6 @@ Where we have introduced the _neural tangent kernel_
 \]
 and the final line is the correspondingly induced norm.
 
-We see that if this kernel is positive definite, then the cost will converge to a global optimum.
+We see that if this kernel is positive definite, then the cost will converge to a global optima on $\F$.
 In the paper it is shown that at (Gaussian) initialisation the kernel is indeed positive definite in the infinite width limit, and, also in the infinite width limit, that it remains approximately constant throughout training.
 
