@@ -8,6 +8,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -21,15 +30,13 @@ url: "https://brynhayder.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username: "brynhayder"
 linkedin_username: "brynelesedy"
+google_site_verification: BbK2kYF9Ur6X1xq0V7gD3ZyFqwLR01KTORXDMIkLZOo
 
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-  - jemoji
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# Disqus Comments
+# disqus:
+#     # Leave shortname blank to disable comments site-wide.
+#         # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+#             shortname: bryn
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
