@@ -66,7 +66,7 @@ Suppose we vary the parameters of our network $\params \to \params + \epsilon \v
 <div>
 \begin{align*}
    \lim_{\epsilon \to 0} \frac{C[f^{\params + \epsilon \eta}] - C[\net]}{\epsilon} 
-   &= \lim_{\epsilon \to 0} \frac{C[\net + \eta \cdot \pdiff{\net}{\params} + O(\epsilon^2)] - C[\net]}{\epsilon} \\
+   &= \lim_{\epsilon \to 0} \frac{C[\net + \epsilon \eta \cdot \pdiff{\net}{\params} + O(\epsilon^2)] - C[\net]}{\epsilon} \\
    &= \sum_{i,j} \eta_i \int_\X \fdiff{C}{\net}(x)_j \pdiff{\net_j}{\theta_i}(x) \d x
 \end{align*}
 </div>
