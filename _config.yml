@@ -23,11 +23,11 @@ plugins:
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bryn Elesedy
-email: 
+email: "bryn@robots.ox.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brynhayder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username: "BrynElesedy"
 github_username: "brynhayder"
 linkedin_username: "brynelesedy"
 google_site_verification: BbK2kYF9Ur6X1xq0V7gD3ZyFqwLR01KTORXDMIkLZOo
