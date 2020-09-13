@@ -32,20 +32,11 @@ github_username: "brynhayder"
 linkedin_username: "brynelesedy"
 google_site_verification: 8kWpIwa4dgUQRNze8H0nzxMnhRWLze8hGsszvxA2BtA
 
+pages:
+  - blog.md
+# not sure what happened with this...
 # Disqus Comments
 # disqus:
 #     # Leave shortname blank to disable comments site-wide.
 #         # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
 #             shortname: bryn
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
