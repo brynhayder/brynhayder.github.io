@@ -11,6 +11,8 @@
 # Build settings
 markdown: kramdown
 theme: minima
+minima:
+  skin: dark
 plugins:
   - jekyll-feed
   - jemoji
@@ -32,8 +34,13 @@ github_username: "brynhayder"
 linkedin_username: "brynelesedy"
 google_site_verification: 8kWpIwa4dgUQRNze8H0nzxMnhRWLze8hGsszvxA2BtA
 
-pages:
-  - blog.md
+collections:
+  projects:
+    output: true
+
+header_pages:
+  - writing.md
+
 # not sure what happened with this...
 # Disqus Comments
 # disqus:
