@@ -6,10 +6,10 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-            {% include social.html %}
+            {% if site.email %}{{ site.email }}{% endif %}
       </div>
       <div class="footer-col footer-col-2">
-            {% if site.email %}{{ site.email }}{% endif %}
+            {% include social.html %}
       </div>
     </div>
 
