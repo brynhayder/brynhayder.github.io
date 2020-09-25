@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 ![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
