@@ -12,6 +12,12 @@
 <a href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i></a>
 {% endif %}
 
+{%- if site.scholar_id -%} 
+<a href="https://scholar.google.com/citations?user={{ site.scholar_id | cgi_escape | escape }}">
+<i class="fa fa-graduation-cap" aria-hidden="true"></i>
+</a>
+{%- endif -%}
+
 <!--</br>-->
 <!--{% if site.email %}-->
     <!--{{site.email}}-->
