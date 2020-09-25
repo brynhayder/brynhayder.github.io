@@ -3,7 +3,6 @@
 
   <div class="wrapper">
 
-    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -15,18 +14,15 @@
               {{ site.title | escape }}
             {% endif %}
             </li>
-            {% include social.html %}
-            {% if site.email %}
-            <li>{{ site.email }}</li>
-            {% endif %}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
+            {% include social.html %}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+            {% if site.email %}{{ site.email }}{% endif %}
       </div>
     </div>
 
