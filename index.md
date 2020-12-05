@@ -2,6 +2,9 @@
 layout: default
 ---
 
+[projects]({{ site.url }}/projects) / [press]({{ site.url }}/press)
+<!--[posts]({{site.url}}/posts) / -->
+
 ![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
 I'm a DPhil student in machine learning at Oxford, supervised by 
@@ -16,4 +19,5 @@ This is a multidisciplinary group formed in response to the coronavirus pandemic
 
 Previously I studied maths and theoretical physics at Cambridge
 and worked on systematic trading strategies at a hedge fund.
+
 
