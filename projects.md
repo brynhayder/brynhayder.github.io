@@ -9,12 +9,11 @@ layout: default
   Epidemic in British Local Authorities*. 
   Yee Whye Teh, {Avishkar Bhoopchand,
   Peter Diggle, **Bryn Elesedy**, Bobby He, Michael Hutchinson, Ulrich Paquet,
-  Jonathan Read, Nenad Tomasev, Sheheryar Zaidi {alphabetical ordering}.
+  Jonathan Read, Nenad Tomasev, Sheheryar Zaidi} {alphabetical ordering}.
   Paper forthcoming. Website: [localcovid.info](https://localcovid.info).
 
 - *Effectiveness and Resource Requirements of Test, Trace and Isolate Strategies*.
-  {Bobby He , Sheheryar
-  Zaidi , **Bryn Elesedy**, Michael Hutchinson}, Andrei Paleyes, Guy Harling,
+  {Bobby He, Sheheryar Zaidi, **Bryn Elesedy**, Michael Hutchinson}, Andrei Paleyes, Guy Harling,
   Anne Johnson, Yee Whye Teh on behalf of Royal Society DELVE group {equal contribution}. 2020. Under review.
 
 - *Lottery Tickets in Linear Models: An Analysis of Iterative Magnitude Pruning*.
