@@ -21,3 +21,4 @@ layout: default
 
 - *Reinforcement Learning: an Introduction*. Solutions manual. 2018. [link](https://github.com/brynhayder/reinforcement_learning_an_introduction).
 
+- *Timescales of Galaxy Mergers and Satellite Stripping*. Master's Thesis. 2015. [link](/assets/masters-thesis.pdf)
