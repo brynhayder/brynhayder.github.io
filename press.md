@@ -13,6 +13,11 @@ layout: default
 **The Times**, 28 May 2020,
 [link](https://www.thetimes.co.uk/article/local-coronavirus-lockdowns-aim-to-stamp-out-infection-x9906st88).
 
+* Covid-19: Test and trace programmes are important but no silver bullet, say scientists,
+**British Medical Journal**,
+28 May 2020,
+[link](https://www.bmj.com/content/369/bmj.m2151.short?rss=1)
+
 * UK coronavirus tracing programme to launch on Thursday,
 **Financial Times**, 27 May 2020, [link](https://www.ft.com/content/342ef0fe-a686-4bc9-9f64-9653855fa7cb),
 
