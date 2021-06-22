@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
+[home]({{site.url}})
 
-# My work in the news
 ## Test, Trace, Isolate
 
 * Test and trace system will start on Thursday,
@@ -41,6 +41,3 @@ say, **Evening Standard**, 27 May 2020, [link](https://www.standard.co.uk/news/h
 
 * Government unveils Covid-19 test-and-trace strategy for
 England, **The Guardian**, 27 May 2020, [link](https://www.theguardian.com/world/2020/may/27/government-unveils-covid-19-test-and-trace-strategy-for-england).
-
-
-
