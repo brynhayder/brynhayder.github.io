@@ -48,6 +48,7 @@ ICML 2021. [link](https://arxiv.org/pdf/2102.10333.pdf) (arxiv)
   {Bobby He, Sheheryar Zaidi, **Bryn Elesedy**, Michael Hutchinson}, Andrei Paleyes, Guy Harling,
   Anne Johnson, Yee Whye Teh on behalf of Royal Society DELVE group {equal contribution}.
  Royal Society Open Science, 2021.
+ [Extended report](https://rs-delve.github.io/reports/2020/05/27/test-trace-isolate.html).
  [link](https://royalsocietypublishing.org/doi/10.1098/rsos.201491)
 
 - Lottery Tickets in Linear Models: An Analysis of Iterative Magnitude Pruning.
