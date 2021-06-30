@@ -52,7 +52,7 @@ ICML 2021. [link](https://arxiv.org/pdf/2102.10333.pdf) (arxiv)
  [link](https://royalsocietypublishing.org/doi/10.1098/rsos.201491)
 
 - Lottery Tickets in Linear Models: An Analysis of Iterative Magnitude Pruning.
-    **Bryn Elesedy**, Varun Kanade, Yee Whye Teh. arxiv:2007.08243, 2020. 
+    **Bryn Elesedy**, Varun Kanade, Yee Whye Teh. Sparsity in Neural Networks Workshop, 2021. 
     [link](https://arxiv.org/abs/2007.08243)
 
 ## Projects
