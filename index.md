@@ -13,8 +13,8 @@ I'm a DPhil student in machine learning at Oxford, supervised by
 I research theoretical aspects of statistical machine learning.
 My focus is currently on generalisation in overparameterised models and the implications of symmetry.
 
-I'm spending the second half of this year doing AI research at [X](https://x.company/)
-(formerly known as Google X).
+I'm spending the second half of this year doing AI research at [X](https://x.company/),
+the company formerly known as Google [x].
 
 In 2020 I became part of the 
 [Royal Society's DELVE initiative](https://rs-delve.github.io/).
