@@ -13,14 +13,14 @@ I'm a DPhil student in machine learning at Oxford, supervised by
 I research theoretical aspects of statistical machine learning.
 My focus is currently on generalisation in overparameterised models and the implications of symmetry.
 
-I'm spending the second half of this year doing AI research at [X](https://x.company/),
-the company formerly known as Google [x].
+I spent the second half of 2021 year doing AI research at [X](https://x.company/)
+(formerly Google [x]) supervised by [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/).
 
-In 2020 I became part of the 
+In 2020 I was part of the 
 [Royal Society's DELVE initiative](https://rs-delve.github.io/).
 This is a multidisciplinary group formed in response to the coronavirus pandemic.
 
-Before my PhD I worked on systematic trading strategies at a hedge fund
+Before my PhD I worked on trading strategies at [Tudor](https://www.tudor.com/)
 and before that I studied maths and theoretical physics at Cambridge.
 
 I was not a normal Cambridge applicant.
@@ -30,8 +30,8 @@ If you need help and you want to chat, send me an email.
 [My work in the news]({{ site.url }}/press)
 
 ## Publications
-- Provably Strict Generalisation Benefit for Invariance in Kernel Methods. **Bryn Elesedy**.
-arxiv:2106.02346, 2021. [link](https://arxiv.org/pdf/2106.02346.pdf)
+- Provably Strict Generalisation Benefit for Invariance in Kernel Methods. **Bryn Elesedy**. 
+NeurIPS 2021. [link](https://arxiv.org/pdf/2106.02346.pdf)
 
 - Provably Strict Generalisation Benefit for Equivariant Models. **Bryn Elesedy** and Sheheryar Zaidi.
 ICML 2021. [link](https://arxiv.org/pdf/2102.10333.pdf) (arxiv)
