@@ -34,7 +34,7 @@ If you need help and you want to chat, send me an email.
 NeurIPS 2021. [link](https://arxiv.org/pdf/2106.02346.pdf)
 
 - Provably Strict Generalisation Benefit for Equivariant Models. **Bryn Elesedy** and Sheheryar Zaidi.
-ICML 2021. [link](https://arxiv.org/pdf/2102.10333.pdf) (arxiv)
+ICML 2021. [link](https://arxiv.org/pdf/2102.10333.pdf)
 
  - Efficient Bayesian Inference of Instantaneous Reproduction Numbers at Fine Spatial Scales,
  with an Application to Mapping and Nowcasting the COVID-19 Epidemic in British Local Authorities.
