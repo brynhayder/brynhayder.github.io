@@ -30,6 +30,10 @@ If you need help and you want to chat, send me an email.
 [My work in the news]({{ site.url }}/press)
 
 ## Publications
+- Group Symmetry in PAC Learning. **Bryn Elesedy**.
+ICLR 2022 Workshop on Geometrical and Topological Representation Learning, _Spotlight_.
+[link](https://openreview.net/pdf?id=HxeTEZJaxq)
+
 - Provably Strict Generalisation Benefit for Invariance in Kernel Methods. **Bryn Elesedy**. 
 NeurIPS 2021. [link](https://arxiv.org/pdf/2106.02346.pdf)
 
