@@ -7,11 +7,13 @@ layout: default
 
 
 I'm a DPhil student in machine learning at Oxford, supervised by 
-[Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html) and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/).
+[Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html) 
+and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/).
+I research theoretical aspects of statistical machine learning.
 <!--I'm also part of the [Autonomous Intelligent Machines and Systems CDT](http://aims.robots.ox.ac.uk/).-->
 
-I research theoretical aspects of statistical machine learning.
-My focus is currently on generalisation in overparameterised models and the implications of symmetry.
+I'm spending August-December 2022 at [DeepMind](https://www.deepmind.com/), supervised by
+[Marcus Hutter](http://www.hutter1.net/).
 
 I spent the second half of 2021 year doing AI research at [X](https://x.company/)
 (formerly Google [x]) supervised by [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/).
