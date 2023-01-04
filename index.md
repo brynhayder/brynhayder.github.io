@@ -12,18 +12,16 @@ and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/).
 I research theoretical aspects of statistical machine learning.
 <!--I'm also part of the [Autonomous Intelligent Machines and Systems CDT](http://aims.robots.ox.ac.uk/).-->
 
-I'm spending August-December 2022 at [DeepMind](https://www.deepmind.com/), supervised by
-[Marcus Hutter](http://www.hutter1.net/).
-
-I spent the second half of 2021 year doing AI research at [X](https://x.company/)
-(formerly Google [x]) supervised by [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/).
+I spent August-December 2022 at [DeepMind](https://www.deepmind.com/), supervised by
+[Marcus Hutter](http://www.hutter1.net/), and I spent the second half of 2021 at [X](https://x.company/)
+(formerly Google [x]) working with [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/).
 
 In 2020 I was part of the 
 [Royal Society's DELVE initiative](https://rs-delve.github.io/).
 This is a multidisciplinary group formed in response to the coronavirus pandemic.
 
-Before my PhD I worked on trading strategies at [Tudor](https://www.tudor.com/)
-and before that I studied maths and theoretical physics at Cambridge.
+Before my PhD I was a quant at [Tudor](https://www.tudor.com/), and before that I studied maths and theoretical physics at Cambridge
+where I was fortunate to be taught by [Stephen Siklos](https://www.maths.cam.ac.uk/features/stephen-siklos-1950-2019).
 
 I was not a normal Cambridge applicant.
 Over the years I've helped a few others bridge the gap. 
