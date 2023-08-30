@@ -6,14 +6,15 @@ layout: default
 ![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
 
-I'm a DPhil student in machine learning at Oxford, supervised by 
+I was a DPhil student in machine learning at Oxford, supervised by 
 [Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html) 
 and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/).
-I research theoretical aspects of statistical machine learning.
+I'm broadly interested in theoretical aspects of statistical machine learning, deep learning
+and applications of machine learning to science.
 <!--I'm also part of the [Autonomous Intelligent Machines and Systems CDT](http://aims.robots.ox.ac.uk/).-->
 
-I'm spending August-December 2022 at [DeepMind](https://www.deepmind.com/), supervised by
-[Marcus Hutter](http://www.hutter1.net/).
+I spent August-December 2022 at [DeepMind](https://www.deepmind.com/) working on [U-Clip](https://arxiv.org/abs/2302.02971),
+supervised by [Marcus Hutter](http://www.hutter1.net/).
 
 I spent the second half of 2021 year doing AI research at [X](https://x.company/)
 (formerly Google [x]) supervised by [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/).
@@ -27,11 +28,16 @@ and before that I studied maths and theoretical physics at Cambridge.
 
 I was not a normal Cambridge applicant.
 Over the years I've helped a few others bridge the gap. 
-If you need help and you want to chat, send me an email.
+If you want help, send me an email.
 
 [My work in the news]({{ site.url }}/press)
 
 ## Publications
+- U-Clip: On-Average Unbiased Stochastic Gradient Clipping
+**Bryn Elesedy**, Marcus Hutter.
+Preprint.
+[link](https://arxiv.org/abs/2302.02971)
+
 - Group Symmetry in PAC Learning. **Bryn Elesedy**.
 ICLR 2022 Workshop on Geometrical and Topological Representation Learning, _Spotlight_.
 [link](https://openreview.net/pdf?id=HxeTEZJaxq)
@@ -62,7 +68,6 @@ ICML 2021. [link](https://arxiv.org/pdf/2102.10333.pdf)
     [link](https://arxiv.org/abs/2007.08243)
 
 ## Projects
-
 - Solutions Manual for *Reinforcement Learning: an Introduction*. 2018.
 [link](https://github.com/brynhayder/reinforcement_learning_an_introduction).
 
