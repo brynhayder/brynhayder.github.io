@@ -32,8 +32,13 @@ If you want help, send me an email.
 
 [My work in the news]({{ site.url }}/press)
 
-## Publications
-- U-Clip: On-Average Unbiased Stochastic Gradient Clipping
+## Publications and Preprints
+- Symmetry and Generalisation in Machine Learning.
+**Bryn Elesedy**.
+PhD Thesis.
+[link](/assets/phd-thesis.pdf)
+
+- U-Clip: On-Average Unbiased Stochastic Gradient Clipping.
 **Bryn Elesedy**, Marcus Hutter.
 Preprint.
 [link](https://arxiv.org/abs/2302.02971)
