@@ -5,7 +5,7 @@ layout: default
 
 ![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
-I work as a Senior Machine Learning Researcher at Samsung, on privacy, federated learning and (soon) LLMs.
+I work as a Senior Machine Learning Researcher at Samsung, on privacy, federated learning and LLMs.
 
 I was a DPhil student in machine learning at Oxford, supervised by 
 [Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html) 
