@@ -5,7 +5,7 @@ layout: default
 
 ![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
-I work as a Senior Machine Learning Researcher at Samsung, focussed on privacy, federated learning and LLMs.
+I work as a Senior Machine Learning Researcher at Samsung, focusing on privacy, federated learning and LLMs.
 
 I'm broadly interested in theoretical aspects of statistical machine learning, deep learning, LLMs
 and applications of machine learning to science.
