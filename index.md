@@ -5,9 +5,9 @@ layout: default
 
 ![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
-I work as a Senior Machine Learning Researcher at Samsung, focusing on privacy, federated learning and LLMs.
+I work as a Senior Machine Learning Researcher at Samsung researching LLM safety and differentially private, federated estimation.
 
-I'm broadly interested in theoretical aspects of statistical machine learning, deep learning, LLMs
+My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning
 and applications of machine learning to science.
 
 I was a DPhil student in machine learning at Oxford, supervised by 
