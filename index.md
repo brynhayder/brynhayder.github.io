@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
+![Hayder Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
 I work as a Senior Machine Learning Researcher at Samsung researching LLM safety and differentially private, federated estimation.
 
@@ -33,6 +33,8 @@ Over the years I've helped a few others bridge the gap.
 If you want help, send me an email.
 
 [My work in the news]({{ site.url }}/press)
+
+_Note: I prefer my Arabic name Hayder, but prior to 2024 I used my my Welsh name, Bryn._
 
 ## Publications and Preprints
 - Symmetry and Generalisation in Machine Learning.

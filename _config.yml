@@ -24,14 +24,14 @@ plugins:
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bryn Elesedy
+title: Hayder Elesedy
 email: "bryn{at}robots{.}ox{.}ac{.}uk"
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bryn.ai" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: "BrynElesedy"
+#twitter_username: "BrynElesedy"
 github_username: "brynhayder"
-linkedin_username: "brynelesedy"
+#linkedin_username: "brynelesedy"
 scholar_id: 09qwVkoAAAAJ
 
 google_site_verification: 8kWpIwa4dgUQRNze8H0nzxMnhRWLze8hGsszvxA2BtA
