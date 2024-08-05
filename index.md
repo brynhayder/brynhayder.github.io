@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![Bryn Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
+![Hayder Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
 I work as a Senior Machine Learning Researcher at Samsung researching LLM safety and differentially private, federated estimation.
 
