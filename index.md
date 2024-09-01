@@ -34,7 +34,7 @@ If you want help, send me an email.
 
 [My work in the news]({{ site.url }}/press)
 
-_Note: I prefer my Arabic name Hayder, but prior to 2024 I used my my Welsh name, Bryn._
+_Note: I prefer my Arabic name Hayder, but prior to 2024 I used my Welsh name, Bryn._
 
 ## Publications and Preprints
 - Symmetry and Generalisation in Machine Learning.
