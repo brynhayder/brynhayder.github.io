@@ -28,7 +28,7 @@ title: Hayder Bryn Elesedy
 email: "bryn{at}robots{.}ox{.}ac{.}uk"
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bryn.ai" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hayder.ai" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: "BrynElesedy"
 github_username: "brynhayder"
 #linkedin_username: "brynelesedy"
