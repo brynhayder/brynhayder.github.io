@@ -3,6 +3,9 @@ layout: default
 ---
 [home]({{site.url}})
 
+## LoRA-Guard
+* Samsung Researchers Introduce LoRA-Guard: A Parameter-Efficient Guardrail Adaptation Method that Relies on Knowledge Sharing between LLMs and Guardrail Models, [link](https://www.marktechpost.com/2024/07/14/samsung-researchers-introduce-lora-guard-a-parameter-efficient-guardrail-adaptation-method-that-relies-on-knowledge-sharing-between-llms-and-guardrail-models/)
+
 ## Test, Trace, Isolate
 
 * Test and trace system will start on Thursday,
