@@ -36,13 +36,5 @@ If you want help, send me an email.
 
 _Note: I prefer my Arabic name Hayder, but prior to 2024 I used my Welsh name, Bryn._
 
-## Publications and Preprints
+### Publications and Preprints
 See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ).
-
-## Other Projects
-- Solutions Manual for *Reinforcement Learning: an Introduction*. 2018.
-[link](https://github.com/brynhayder/reinforcement_learning_an_introduction).
-- *Timescales of Galaxy Mergers and Satellite Stripping*.
-Master's Thesis. 2015. [link](/assets/masters-thesis.pdf)
-
-
