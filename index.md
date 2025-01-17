@@ -5,7 +5,7 @@ layout: default
 
 ![Hayder Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
-I am an AI researcher and Engineer.
+I am an AI Researcher and Engineer.
 
 My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning
 and applications of machine learning to science.
@@ -38,7 +38,7 @@ _Note: I prefer my Arabic name Hayder, but prior to 2024 I used my Welsh name, B
 
 ### Links
 - **Publications and Preprints**:
-see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ).
+see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ)
 - **Code**: mostly proprietary, but a little on [GitHub](https://github.com/brynhayder)
 - [My work in the news]({{ site.url }}/press)
 
