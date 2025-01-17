@@ -5,10 +5,11 @@ layout: default
 
 ![Hayder Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
-I work as a Senior Machine Learning Researcher at Samsung researching LLM safety and differentially private, federated estimation.
 
 My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning
 and applications of machine learning to science.
+
+During 2023-2024 I worked as a Senior Machine Learning Researcher at Samsung researching LLM safety and differentially private, federated estimation.
 
 I was a DPhil student in machine learning at Oxford, supervised by 
 [Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html) 
@@ -34,7 +35,6 @@ If you want help, send me an email.
 
 [My work in the news]({{ site.url }}/press)
 
-_Note: I prefer my Arabic name Hayder, but prior to 2024 I used my Welsh name, Bryn._
+*Publications and Preprints*: see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ).
 
-### Publications and Preprints
-See my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ).
+_Note: I prefer my Arabic name Hayder, but prior to 2024 I used my Welsh name, Bryn._
