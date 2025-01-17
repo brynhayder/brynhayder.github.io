@@ -5,6 +5,7 @@ layout: default
 
 ![Hayder Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
+I am an AI researcher and Engineer.
 
 My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning
 and applications of machine learning to science.
@@ -33,8 +34,12 @@ I was not a normal Cambridge applicant.
 Over the years I've helped a few others bridge the gap. 
 If you want help, send me an email.
 
-[My work in the news]({{ site.url }}/press)
-
-*Publications and Preprints*: see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ).
-
 _Note: I prefer my Arabic name Hayder, but prior to 2024 I used my Welsh name, Bryn._
+
+### Links
+- **Publications and Preprints**:
+see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ).
+- **Code**: mostly proprietary, but a little on [GitHub](https://github.com/brynhayder)
+- [My work in the news]({{ site.url }}/press)
+
+
