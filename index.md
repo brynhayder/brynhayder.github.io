@@ -7,7 +7,7 @@ layout: default
 
 I am an AI Researcher and Engineer.
 
-My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning
+My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning, reinforcement learning
 and applications of machine learning to science.
 
 During 2023-2024 I worked as a Senior Machine Learning Researcher at Samsung researching LLM safety and differentially private, federated estimation.
