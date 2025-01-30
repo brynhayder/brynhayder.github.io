@@ -14,7 +14,7 @@ During 2023-2024 I worked as a Senior Machine Learning Researcher at Samsung res
 
 I was a DPhil student in machine learning at Oxford, supervised by 
 [Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html) 
-and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/).
+and [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/). My thesis is [here](https://arxiv.org/abs/2501.03858).
 <!--I'm also part of the [Autonomous Intelligent Machines and Systems CDT](http://aims.robots.ox.ac.uk/).-->
 
 I spent August-December 2022 at [DeepMind](https://www.deepmind.com/) working on [U-Clip](https://arxiv.org/abs/2302.02971),
