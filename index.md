@@ -24,7 +24,7 @@ I spent August-December 2022 at [DeepMind](https://www.deepmind.com/) working on
 supervised by [Marcus Hutter](http://www.hutter1.net/).
 
 I spent the second half of 2021 year doing AI research at [X](https://x.company/)
-(formerly Google [x]) supervised by [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/).
+(formerly Google [x]) supervised by [David Duvenaud](http://www.cs.toronto.edu/~duvenaud/). I worked on the early stages of [A-Life](https://x.company/projects/a-life/).
 
 In 2020 I was part of the 
 [Royal Society's DELVE initiative](https://rs-delve.github.io/).
