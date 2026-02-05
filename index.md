@@ -42,7 +42,7 @@ If you want help (with university/academia/career/anything), send me an email. I
 ### Links
 - **Publications and Preprints**:
 see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=09qwVkoAAAAJ)
-- **Code**: mostly proprietary, but a little on [GitHub](https://github.com/brynhayder)
+- **Code**: everything I've done is proprietary, but there are scraps on [GitHub](https://github.com/brynhayder)
 - [My work in the news]({{ site.url }}/press)
 
 _Note: I prefer my Arabic name Hayder, but previously I used my Welsh name, Bryn._
