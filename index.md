@@ -8,8 +8,8 @@ layout: default
 I am a Machine Learning Researcher at [Fundamental](https://fundamental.tech/), building foundation
 models for tabular data. I joined as an early member of the research team.
 
-My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning, reinforcement learning
-and applications of machine learning to science.
+My academic interests focussed around theoretical aspects of statistical machine
+learning, symmetry, deep learning and applications of machine learning to science.
 
 If it helps, you can pronounce my first name as "hi-der" and my surname as "el ess-edy".
 
