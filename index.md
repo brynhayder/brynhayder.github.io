@@ -34,7 +34,6 @@ I was not a normal Cambridge applicant.
 Over the years I've helped a few others bridge the gap. 
 If you want help, send me an email.
 
-_Note: I prefer my Arabic name Hayder, but prior to 2024 I used my Welsh name, Bryn._
 
 ### Links
 - **Publications and Preprints**:
@@ -43,3 +42,4 @@ see [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=
 - [My work in the news]({{ site.url }}/press)
 
 
+_Note: I prefer my Arabic name Hayder, but previously I used my Welsh name, Bryn._
