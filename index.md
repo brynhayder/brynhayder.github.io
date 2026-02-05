@@ -35,9 +35,9 @@ Our results informed policy decisions at the highest level of UK government.
 Before my PhD I was a quant at [Tudor](https://www.tudor.com/), and before that I studied maths and theoretical physics at Cambridge
 where I was very fortunate to be taught by [Stephen Siklos](https://www.maths.cam.ac.uk/features/stephen-siklos-1950-2019).
 
-I was not a normal Cambridge applicant.
+As a teenager I was not your typical Cambridge applicant.
 Over the years I've helped a few others bridge the gap. 
-If you want help, send me an email.
+If you want help (with university/academia/career/anything), send me an email. I always respond.
 
 ### Links
 - **Publications and Preprints**:
