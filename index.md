@@ -30,6 +30,7 @@ I spent the second half of 2021 year doing AI research at [X](https://x.company/
 In 2020 I was part of the 
 [Royal Society's DELVE initiative](https://rs-delve.github.io/).
 This is a multidisciplinary group formed in response to the coronavirus pandemic.
+Our results informed policy decisions at the highest level of UK government.
 
 Before my PhD I was a quant at [Tudor](https://www.tudor.com/), and before that I studied maths and theoretical physics at Cambridge
 where I was fortunate to be taught by [Stephen Siklos](https://www.maths.cam.ac.uk/features/stephen-siklos-1950-2019).
