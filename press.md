@@ -3,6 +3,11 @@ layout: default
 ---
 [home]({{site.url}})
 
+## Fundamental Technologies
+* AI venture Fundamental secures $1.2bn valuation and Amazon deaa,l **Financial Times**, [link](https://www.ft.com/content/73c2bd59-91aa-4fda-b4fe-617ace191d2e)
+* Fundamental raises $255M Series A with a new take on big data analysis, **Tech Crunch**, [link](https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/)
+* Beyond the lakehouse: Fundamental's NEXUS bypasses manual ETL with a native foundation model for tabular data, **Venturebeat**, [link](https://venturebeat.com/technology/fundamental-emerges-from-stealth-with-first-major-foundation-model-trained)
+
 ## LoRA-Guard
 * Samsung Researchers Introduce LoRA-Guard: A Parameter-Efficient Guardrail Adaptation Method that Relies on Knowledge Sharing between LLMs and Guardrail Models, [link](https://www.marktechpost.com/2024/07/14/samsung-researchers-introduce-lora-guard-a-parameter-efficient-guardrail-adaptation-method-that-relies-on-knowledge-sharing-between-llms-and-guardrail-models/)
 
