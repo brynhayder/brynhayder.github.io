@@ -5,7 +5,8 @@ layout: default
 
 ![Hayder Elesedy](/images/web_pic.jpeg){:style="width: 200px; overflow: hidden; float: right; padding-left: 20px"}
 
-I am an AI Researcher and Engineer. 
+I am a Machine Learning Researcher at [Fundamental](https://fundamental.tech/), working on foundation
+models for tabular data. I was one of the early members of the research team.
 
 My interests include reasoning, theoretical aspects of statistical machine learning, LLMs, deep learning, reinforcement learning
 and applications of machine learning to science.
