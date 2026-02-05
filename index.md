@@ -11,7 +11,7 @@ models for tabular data. I joined as an early member of the research team.
 My academic interests focussed around theoretical aspects of statistical machine
 learning, symmetry, deep learning and applications of machine learning to science.
 
-If it helps, you can pronounce my first name as "hi-der" and my surname as "el ess-edy".
+You can pronounce my first name as "hi-der" and my surname as "el ess-edy".
 
 ### Background
 During 2023-2024 I worked as a Senior Machine Learning Researcher at Samsung researching LLM safety and differentially private, federated estimation.
